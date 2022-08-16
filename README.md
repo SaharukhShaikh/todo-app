@@ -1,7 +1,7 @@
 # todo-app
 
-#To create a react-application you need to install the two packages:-
-#npm -v  {check the version}
+#To create a react-application you need to install the two packages:-<br/>
+#npm -v  {check the version}<br/>
 #node -v {check the version}
 
 #About readme.md file - 
